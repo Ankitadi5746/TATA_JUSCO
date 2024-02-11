@@ -1,0 +1,8 @@
+Go to the tomcat directory /usr/mack/apache-tomcat-x.0.xx/bin
+    # ./version.sh
+    Using CATALINA_BASE:   /usr/mack/apache-tomcat-x.0.xx
+    Using CATALINA_HOME:   /usr/mack/apache-tomcat-x.0.xx
+    Using CATALINA_TMPDIR: /usr/mack/apache-tomcat-x.0.xx/temp
+    Using JRE_HOME:        /usr/java/jdk1.7.0_71/jre
+    Using CLASSPATH:       /usr/mack/apache-tomcat-x.0.xx/bin/bootstrap.jar:/usr/mack/apache-tomcat-x.0.xx/bin/tomcat-juli.jar
+    Server version: Apache Tomcat/7.0.56
